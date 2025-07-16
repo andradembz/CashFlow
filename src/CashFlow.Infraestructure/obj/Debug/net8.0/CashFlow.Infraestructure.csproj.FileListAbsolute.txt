@@ -8,6 +8,7 @@ C:\Workspace\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.Inf
 C:\Workspace\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.Infraestructure.AssemblyInfoInputs.cache
 C:\Workspace\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.Infraestructure.AssemblyInfo.cs
 C:\Workspace\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Workspace\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.Infraestructure.sourcelink.json
 C:\Workspace\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.DFFAD19C.Up2Date
 C:\Workspace\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\CashFlow.Infraestructure.dll
 C:\Workspace\CashFlow\src\CashFlow.Infraestructure\obj\Debug\net8.0\refint\CashFlow.Infraestructure.dll

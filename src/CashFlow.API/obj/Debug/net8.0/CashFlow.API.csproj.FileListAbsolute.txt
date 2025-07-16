@@ -6,6 +6,7 @@ C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.deps.json
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.runtimeconfig.json
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.pdb
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\FluentValidation.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -28,6 +29,7 @@ C:\Workspace\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.AssemblyInf
 C:\Workspace\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.csproj.CoreCompileInputs.cache
 C:\Workspace\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Workspace\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.sourcelink.json
 C:\Workspace\CashFlow\src\CashFlow.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Workspace\CashFlow\src\CashFlow.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Workspace\CashFlow\src\CashFlow.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

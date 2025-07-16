@@ -5,7 +5,9 @@ C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception
 C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.AssemblyInfoInputs.cache
 C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.AssemblyInfo.cs
 C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.CoreCompileInputs.cache
+C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.sourcelink.json
 C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.dll
 C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\refint\CashFlow.Exception.dll
 C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.pdb
 C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\ref\CashFlow.Exception.dll
+C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.AssemblyReference.cache
