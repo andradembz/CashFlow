@@ -1,0 +1,16 @@
+C:\Workspace\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.deps.json
+C:\Workspace\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.dll
+C:\Workspace\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.pdb
+C:\Workspace\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Communication.dll
+C:\Workspace\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Communication.pdb
+C:\Workspace\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.csproj.AssemblyReference.cache
+C:\Workspace\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.AssemblyInfoInputs.cache
+C:\Workspace\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.AssemblyInfo.cs
+C:\Workspace\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.csproj.CoreCompileInputs.cache
+C:\Workspace\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.sourcelink.json
+C:\Workspace\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTe.14C365E1.Up2Date
+C:\Workspace\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.dll
+C:\Workspace\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\refint\CommonTestUtilities.dll
+C:\Workspace\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.pdb
+C:\Workspace\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\ref\CommonTestUtilities.dll

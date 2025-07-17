@@ -18,3 +18,5 @@ C:\Workspace\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\CashFlow.Applica
 C:\Workspace\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\refint\CashFlow.Application.dll
 C:\Workspace\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\CashFlow.Application.pdb
 C:\Workspace\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\ref\CashFlow.Application.dll
+C:\Workspace\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\de-DE\CashFlow.Exception.resources.dll
+C:\Workspace\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll

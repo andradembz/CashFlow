@@ -11,3 +11,11 @@ C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\refint\CashFlow.Ex
 C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.pdb
 C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\ref\CashFlow.Exception.dll
 C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.AssemblyReference.cache
+C:\Workspace\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\de-DE\CashFlow.Exception.resources.dll
+C:\Workspace\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.resources
+C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.de-DE.resources
+C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.pt-BR.resources
+C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.GenerateResource.cache
+C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\de-DE\CashFlow.Exception.resources.dll
+C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll

@@ -12,6 +12,14 @@
         },
         "runtime": {
           "CashFlow.Exception.dll": {}
+        },
+        "resources": {
+          "de-DE/CashFlow.Exception.resources.dll": {
+            "locale": "de-DE"
+          },
+          "pt-BR/CashFlow.Exception.resources.dll": {
+            "locale": "pt-BR"
+          }
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {},

@@ -45,3 +45,5 @@ C:\Workspace\CashFlow\src\CashFlow.API\obj\Debug\net8.0\refint\CashFlow.API.dll
 C:\Workspace\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.pdb
 C:\Workspace\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.genruntimeconfig.cache
 C:\Workspace\CashFlow\src\CashFlow.API\obj\Debug\net8.0\ref\CashFlow.API.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\de-DE\CashFlow.Exception.resources.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
