@@ -123,6 +123,9 @@
   <data name="DATE_ERROR" xml:space="preserve">
     <value>Die Ausgaben dürfen nicht in der Zukunft liegen.</value>
   </data>
+  <data name="EXPENSE_NOT_FOUND" xml:space="preserve">
+    <value>Ausgabe nicht gefunden.</value>
+  </data>
   <data name="PAYMENT_TYPE_ERROR" xml:space="preserve">
     <value>Zahlungsart ist ungültig.</value>
   </data>
