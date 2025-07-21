@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tpd+Xe4CjBg=",
+  "dgSpecHash": "7C8GxpkYiHA=",
   "success": true,
   "projectFilePath": "C:\\Workspace\\CashFlow\\tests\\Validators.Tests\\Validators.Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Doqr\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Doqr\\.nuget\\packages\\bogus\\35.6.3\\bogus.35.6.3.nupkg.sha512",
     "C:\\Users\\Doqr\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Doqr\\.nuget\\packages\\fluentassertions\\8.5.0\\fluentassertions.8.5.0.nupkg.sha512",

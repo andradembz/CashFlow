@@ -58,3 +58,4 @@ C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.Extensions.Log
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\MySqlConnector.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\AutoMapper.dll
