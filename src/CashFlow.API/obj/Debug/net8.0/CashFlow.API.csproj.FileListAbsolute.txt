@@ -59,3 +59,11 @@ C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.Extensions.Opt
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\MySqlConnector.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\ClosedXML.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Irony.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\XLParser.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\de-DE\CashFlow.Domain.resources.dll

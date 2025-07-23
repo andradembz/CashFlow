@@ -13,6 +13,11 @@
         },
         "runtime": {
           "CashFlow.Domain.dll": {}
+        },
+        "resources": {
+          "de-DE/CashFlow.Domain.resources.dll": {
+            "locale": "de-DE"
+          }
         }
       },
       "Microsoft.EntityFrameworkCore/8.0.18": {
