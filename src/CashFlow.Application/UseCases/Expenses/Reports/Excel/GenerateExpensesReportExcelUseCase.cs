@@ -1,5 +1,5 @@
 ﻿
-using CashFlow.Communication.Enums;
+using CashFlow.Domain.Enums;
 using CashFlow.Domain.Reports;
 using CashFlow.Domain.Repositories.Expenses;
 using ClosedXML.Excel;
@@ -54,10 +54,10 @@ public class GenerateExpensesReportExcelUseCase : IGenerateExpensesReportExcelUs
     {
         return payment switch
         {
-            PaymentType.Cash => "Dinheiro",
-            PaymentType.CreditCard => "Cartão de Crédito",
-            PaymentType.DebitCard => "Cartão de Débito",
-            PaymentType.EletronicTransfer => "Transferência Bancária",
+            PaymentType.Cash => ResourceReportGenerationMessages.CASH,
+            PaymentType.CreditCard => ResourceReportGenerationMessages.CREDIT_CARD,
+            PaymentType.DebitCard => ResourceReportGenerationMessages.DEBIT_CARD,
+            PaymentType.EletronicTransfer => ResourceReportGenerationMessages.ELETRONIC_TRANSFER,
             _ => string.Empty
         };
     }

@@ -120,11 +120,23 @@
   <data name="AMOUNT" xml:space="preserve">
     <value>Menge</value>
   </data>
+  <data name="CASH" xml:space="preserve">
+    <value>Kasse</value>
+  </data>
+  <data name="CREDIT_CARD" xml:space="preserve">
+    <value>Kreditkarte</value>
+  </data>
   <data name="DATE" xml:space="preserve">
     <value>Datum</value>
   </data>
+  <data name="DEBIT_CARD" xml:space="preserve">
+    <value>Debitkarte</value>
+  </data>
   <data name="DESCRIPTION" xml:space="preserve">
     <value>Beschreibung</value>
+  </data>
+  <data name="ELETRONIC_TRANSFER" xml:space="preserve">
+    <value>Elektronischer Transfer</value>
   </data>
   <data name="PAYMENT_TYPE" xml:space="preserve">
     <value>Zahlungsart</value>
