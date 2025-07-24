@@ -126,6 +126,9 @@
   <data name="CREDIT_CARD" xml:space="preserve">
     <value>Kreditkarte</value>
   </data>
+  <data name="CURRENCY_SYMBOL" xml:space="preserve">
+    <value>€</value>
+  </data>
   <data name="DATE" xml:space="preserve">
     <value>Datum</value>
   </data>

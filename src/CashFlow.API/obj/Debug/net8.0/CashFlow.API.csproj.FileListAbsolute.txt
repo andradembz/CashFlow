@@ -64,6 +64,7 @@ C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\DocumentFormat.OpenXml.d
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\ExcelNumberFormat.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\SixLabors.Fonts.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\System.IO.Packaging.dll
-C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Irony.dll
-C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\XLParser.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\de-DE\CashFlow.Domain.resources.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\RBush.dll

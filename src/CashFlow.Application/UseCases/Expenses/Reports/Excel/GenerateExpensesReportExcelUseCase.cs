@@ -3,6 +3,7 @@ using CashFlow.Domain.Enums;
 using CashFlow.Domain.Reports;
 using CashFlow.Domain.Repositories.Expenses;
 using ClosedXML.Excel;
+using System.Globalization;
 
 namespace CashFlow.Application.UseCases.Expenses.Reports.Excel;
 
@@ -22,7 +23,7 @@ public class GenerateExpensesReportExcelUseCase : IGenerateExpensesReportExcelUs
             return [];
         
 
-        var workbook = new XLWorkbook();
+        using var workbook = new XLWorkbook();
 
         workbook.Author = "Miguel Bodo de Andrade";
         workbook.Style.Font.FontSize = 12;
@@ -38,11 +39,16 @@ public class GenerateExpensesReportExcelUseCase : IGenerateExpensesReportExcelUs
             worksheet.Cell($"A{raw}").Value = expense.title;
             worksheet.Cell($"B{raw}").Value = expense.date;
             worksheet.Cell($"C{raw}").Value = ConvertPaymentType(expense.paymentType);
+
             worksheet.Cell($"D{raw}").Value = expense.amount;
+            worksheet.Cell($"D{raw}").Style.NumberFormat.Format = $"{ResourceReportGenerationMessages.CURRENCY_SYMBOL} #,##0.00";
+
             worksheet.Cell($"E{raw}").Value = expense.description;
 
             raw++;
         }
+
+        worksheet.Columns().AdjustToContents();
 
         var file = new MemoryStream();
         workbook.SaveAs(file);

@@ -88,6 +88,15 @@ namespace CashFlow.Domain.Reports {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to $.
+        /// </summary>
+        public static string CURRENCY_SYMBOL {
+            get {
+                return ResourceManager.GetString("CURRENCY_SYMBOL", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Date.
         /// </summary>
         public static string DATE {
