@@ -35,11 +35,11 @@ public class GenerateExpensesReportExcelUseCase : IGenerateExpensesReportExcelUs
         var raw = 2;
         foreach(var expense in expenses)
         {
-            worksheet.Cell($"A{2}").Value = expense.title;
-            worksheet.Cell($"B{2}").Value = expense.date;
-            worksheet.Cell($"C{2}").Value = ConvertPaymentType(expense.paymentType);
-            worksheet.Cell($"D{2}").Value = expense.amount;
-            worksheet.Cell($"E{2}").Value = expense.description;
+            worksheet.Cell($"A{raw}").Value = expense.title;
+            worksheet.Cell($"B{raw}").Value = expense.date;
+            worksheet.Cell($"C{raw}").Value = ConvertPaymentType(expense.paymentType);
+            worksheet.Cell($"D{raw}").Value = expense.amount;
+            worksheet.Cell($"E{raw}").Value = expense.description;
 
             raw++;
         }
