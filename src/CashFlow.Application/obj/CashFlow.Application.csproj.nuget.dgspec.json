@@ -76,6 +76,10 @@
               "target": "Package",
               "version": "[8.0.18, )"
             },
+            "PDFsharp-MigraDoc": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.3.1, )"

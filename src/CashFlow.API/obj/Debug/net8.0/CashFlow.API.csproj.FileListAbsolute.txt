@@ -68,3 +68,4 @@ C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\de-DE\CashFlow.Domain.re
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\ClosedXML.Parser.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\RBush.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\pt-BR\CashFlow.Domain.resources.dll

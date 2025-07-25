@@ -289,6 +289,9 @@
         "resources": {
           "de-DE/CashFlow.Domain.resources.dll": {
             "locale": "de-DE"
+          },
+          "pt-BR/CashFlow.Domain.resources.dll": {
+            "locale": "pt-BR"
           }
         }
       },
