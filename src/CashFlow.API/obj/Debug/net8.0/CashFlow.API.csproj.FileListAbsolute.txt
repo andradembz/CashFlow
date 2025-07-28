@@ -69,3 +69,17 @@ C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\ClosedXML.Parser.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\RBush.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\pt-BR\CashFlow.Domain.resources.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\PdfSharp.BarCodes.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\PdfSharp.Charting.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\PdfSharp.Cryptography.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\PdfSharp.Quality.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\PdfSharp.Shared.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\PdfSharp.Snippets.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\PdfSharp.System.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\PdfSharp.WPFonts.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\PdfSharp.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\MigraDoc.DocumentObjectModel.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\MigraDoc.Rendering.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\MigraDoc.RtfRendering.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll

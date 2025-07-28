@@ -141,10 +141,16 @@
   <data name="ELETRONIC_TRANSFER" xml:space="preserve">
     <value>Elektronischer Transfer</value>
   </data>
+  <data name="EXPENSES_FOR" xml:space="preserve">
+    <value>Ausgaben für</value>
+  </data>
   <data name="PAYMENT_TYPE" xml:space="preserve">
     <value>Zahlungsart</value>
   </data>
   <data name="TITLE" xml:space="preserve">
     <value>Titel</value>
+  </data>
+  <data name="TOTAL_SPENT_IN" xml:space="preserve">
+    <value>Gesamtausgaben in [0]</value>
   </data>
 </root>
