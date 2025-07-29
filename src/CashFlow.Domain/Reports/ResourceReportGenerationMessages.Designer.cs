@@ -160,7 +160,7 @@ namespace CashFlow.Domain.Reports {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Total spent in [0].
+        ///   Looks up a localized string similar to Total spent in {0}.
         /// </summary>
         public static string TOTAL_SPENT_IN {
             get {

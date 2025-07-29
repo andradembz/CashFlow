@@ -22,3 +22,4 @@ C:\Workspace\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\de-DE\CashFlow.E
 C:\Workspace\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
 C:\Workspace\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\de-DE\CashFlow.Domain.resources.dll
 C:\Workspace\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\pt-BR\CashFlow.Domain.resources.dll
+C:\Workspace\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\UseCases\Expenses\Reports\Pdf\Img\profileimg.png
