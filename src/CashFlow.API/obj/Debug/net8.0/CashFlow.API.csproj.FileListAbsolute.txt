@@ -158,3 +158,6 @@ C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.IdentityModel.
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Workspace\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
