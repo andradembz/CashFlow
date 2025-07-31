@@ -132,6 +132,9 @@
   <data name="EMAIL_INVALID" xml:space="preserve">
     <value>O Email é invalido.</value>
   </data>
+  <data name="EMAIL_OR_PASSWORD_INVALID" xml:space="preserve">
+    <value>Email/Senha Inválidos</value>
+  </data>
   <data name="EXPENSE_NOT_FOUND" xml:space="preserve">
     <value>A despesa não foi encontrada.</value>
   </data>

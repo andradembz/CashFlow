@@ -132,6 +132,9 @@
   <data name="EMAIL_INVALID" xml:space="preserve">
     <value>E-Mail ist ungültig.</value>
   </data>
+  <data name="EMAIL_OR_PASSWORD_INVALID" xml:space="preserve">
+    <value>E-Mail/Passwort ungültig</value>
+  </data>
   <data name="EXPENSE_NOT_FOUND" xml:space="preserve">
     <value>Ausgabe nicht gefunden.</value>
   </data>
