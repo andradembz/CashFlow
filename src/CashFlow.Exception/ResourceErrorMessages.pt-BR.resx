@@ -123,8 +123,23 @@
   <data name="DATE_ERROR" xml:space="preserve">
     <value>Os gastos não podem ser registrados para o futuro.</value>
   </data>
+  <data name="EMAIL_ALREADY_REGISTERED" xml:space="preserve">
+    <value>Este email já está registrado</value>
+  </data>
+  <data name="EMAIL_EMPTY" xml:space="preserve">
+    <value>O Email não pode ser vazio.</value>
+  </data>
+  <data name="EMAIL_INVALID" xml:space="preserve">
+    <value>O Email é invalido.</value>
+  </data>
   <data name="EXPENSE_NOT_FOUND" xml:space="preserve">
     <value>A despesa não foi encontrada.</value>
+  </data>
+  <data name="INVALID_PASSWORD" xml:space="preserve">
+    <value>Sua senha deve ter no mínimo 8 caracteres, contendo pelo menos uma letra maíuscula, uma letra minúscula, um número e um caractere especial (ex: !, ?, *).</value>
+  </data>
+  <data name="NAME_EMPTY" xml:space="preserve">
+    <value>O nome não pode ser vazio.</value>
   </data>
   <data name="PAYMENT_TYPE_ERROR" xml:space="preserve">
     <value>O método de pagamento não é valido.</value>

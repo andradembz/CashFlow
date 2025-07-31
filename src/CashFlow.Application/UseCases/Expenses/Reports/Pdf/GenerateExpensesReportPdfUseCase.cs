@@ -33,7 +33,7 @@ public class GenerateExpensesReportPdfUseCase : IGenerateExpensesReportPdfUseCas
 
         CreateHeaderWithProfilePhotoAndName(page);
 
-        var totalExpenses = expenses.Sum(expense => expense.amount);
+        var totalExpenses = expenses.Sum(expense => expense.Amount);
         CreateTotalSpentSection(page, month, totalExpenses);
 
         foreach ( var expense in expenses)
@@ -43,31 +43,31 @@ public class GenerateExpensesReportPdfUseCase : IGenerateExpensesReportPdfUseCas
             var row = table.AddRow();
             row.Height = HEIGHT_ROW_EXPENSE_TABLE;
 
-            AddExpenseTitle(row.Cells[0], expense.title);
+            AddExpenseTitle(row.Cells[0], expense.Title);
 
             AddHeaderForAmount(row.Cells[3]);
 
             row = table.AddRow();
             row.Height = HEIGHT_ROW_EXPENSE_TABLE;
 
-            row.Cells[0].AddParagraph(expense.date.ToString("D"));
+            row.Cells[0].AddParagraph(expense.Date.ToString("D"));
             SetStyleBaseForExpenseInformation(row.Cells[0]);
             row.Cells[0].Format.LeftIndent = 20;
 
-            row.Cells[1].AddParagraph(expense.date.ToString("t"));
+            row.Cells[1].AddParagraph(expense.Date.ToString("t"));
             SetStyleBaseForExpenseInformation(row.Cells[1]);
 
-            row.Cells[2].AddParagraph(expense.paymentType.PaymentTypeToString());
+            row.Cells[2].AddParagraph(expense.PaymentType.PaymentTypeToString());
             SetStyleBaseForExpenseInformation(row.Cells[2]);
 
-            AddAmountForExpense(row.Cells[3], expense.amount);
+            AddAmountForExpense(row.Cells[3], expense.Amount);
 
-            if (!string.IsNullOrWhiteSpace(expense.description))
+            if (!string.IsNullOrWhiteSpace(expense.Description))
             {
                 var descriptionRow = table.AddRow();
                 descriptionRow.Height = HEIGHT_ROW_EXPENSE_TABLE;
 
-                descriptionRow.Cells[0].AddParagraph(expense.description);
+                descriptionRow.Cells[0].AddParagraph(expense.Description);
                 descriptionRow.Cells[0].Format.Font = new Font { Name = FontHelper.WORKSANS_REGULAR, Size = 10, Color = ColorsHelper.BLACK };
                 descriptionRow.Cells[0].Shading.Color = ColorsHelper.GREEN_LIGHT;
                 descriptionRow.Cells[0].VerticalAlignment = VerticalAlignment.Center;

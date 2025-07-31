@@ -19,7 +19,7 @@ internal class ExpensesRepository : IExpensesReadOnlyRepository, IExpenseWriteOn
 
     public async Task<bool> Delete(long id)
     {
-        var result = await _dbContext.Expenses.FirstOrDefaultAsync(expense => expense.id == id);
+        var result = await _dbContext.Expenses.FirstOrDefaultAsync(expense => expense.Id == id);
         if (result is null)
         {
             return false;
@@ -37,11 +37,11 @@ internal class ExpensesRepository : IExpensesReadOnlyRepository, IExpenseWriteOn
 
     async Task<Expense?> IExpensesReadOnlyRepository.GetById(long id)
     {
-        return await _dbContext.Expenses.AsNoTracking().FirstOrDefaultAsync(expense => expense.id == id);
+        return await _dbContext.Expenses.AsNoTracking().FirstOrDefaultAsync(expense => expense.Id == id);
     }
     async Task<Expense?> IExpensesUpdateOnlyRepository.GetById(long id)
     {
-        return await _dbContext.Expenses.FirstOrDefaultAsync(expense => expense.id == id);
+        return await _dbContext.Expenses.FirstOrDefaultAsync(expense => expense.Id == id);
     }
 
     public void Update(Expense expense)
@@ -59,9 +59,9 @@ internal class ExpensesRepository : IExpensesReadOnlyRepository, IExpenseWriteOn
         return await _dbContext
             .Expenses
             .AsNoTracking()
-            .Where(expense => expense.date >= startDate && expense.date <= endDate)
-            .OrderBy(expense => expense.date)
-            .ThenBy(expense => expense.title)
+            .Where(expense => expense.Date >= startDate && expense.Date <= endDate)
+            .OrderBy(expense => expense.Date)
+            .ThenBy(expense => expense.Title)
             .ToListAsync();
     }
 }

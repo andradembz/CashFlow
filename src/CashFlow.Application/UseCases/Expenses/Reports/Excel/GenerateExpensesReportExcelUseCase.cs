@@ -37,14 +37,14 @@ public class GenerateExpensesReportExcelUseCase : IGenerateExpensesReportExcelUs
         var raw = 2;
         foreach(var expense in expenses)
         {
-            worksheet.Cell($"A{raw}").Value = expense.title;
-            worksheet.Cell($"B{raw}").Value = expense.date;
-            worksheet.Cell($"C{raw}").Value = expense.paymentType.PaymentTypeToString();
+            worksheet.Cell($"A{raw}").Value = expense.Title;
+            worksheet.Cell($"B{raw}").Value = expense.Date;
+            worksheet.Cell($"C{raw}").Value = expense.PaymentType.PaymentTypeToString();
 
-            worksheet.Cell($"D{raw}").Value = expense.amount;
+            worksheet.Cell($"D{raw}").Value = expense.Amount;
             worksheet.Cell($"D{raw}").Style.NumberFormat.Format = $"{ResourceReportGenerationMessages.CURRENCY_SYMBOL} #,##0.00";
 
-            worksheet.Cell($"E{raw}").Value = expense.description;
+            worksheet.Cell($"E{raw}").Value = expense.Description;
 
             raw++;
         }

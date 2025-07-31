@@ -123,8 +123,23 @@
   <data name="DATE_ERROR" xml:space="preserve">
     <value>Die Ausgaben dürfen nicht in der Zukunft liegen.</value>
   </data>
+  <data name="EMAIL_ALREADY_REGISTERED" xml:space="preserve">
+    <value>Diese E-Mail ist bereits registriert</value>
+  </data>
+  <data name="EMAIL_EMPTY" xml:space="preserve">
+    <value>Die E-Mail-Adresse darf nicht leer sein.</value>
+  </data>
+  <data name="EMAIL_INVALID" xml:space="preserve">
+    <value>E-Mail ist ungültig.</value>
+  </data>
   <data name="EXPENSE_NOT_FOUND" xml:space="preserve">
     <value>Ausgabe nicht gefunden.</value>
+  </data>
+  <data name="INVALID_PASSWORD" xml:space="preserve">
+    <value>Ihr Passwort muss mindestens 8 Zeichen lang sein und mindestens einen Großbuchstaben, einen Kleinbuchstaben, eine Zahl und ein Sonderzeichen (z. B. !, ?, *) enthalten.</value>
+  </data>
+  <data name="NAME_EMPTY" xml:space="preserve">
+    <value>Der Name darf nicht leer sein.</value>
   </data>
   <data name="PAYMENT_TYPE_ERROR" xml:space="preserve">
     <value>Zahlungsart ist ungültig.</value>

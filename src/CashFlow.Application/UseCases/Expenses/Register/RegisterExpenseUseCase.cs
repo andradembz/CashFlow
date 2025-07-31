@@ -30,7 +30,6 @@ public class RegisterExpenseUseCase : IRegisterExpenseUseCase
         Validate(request);
 
         var entity = _mapper.Map<Expense>(request);
-        entity.guid = Guid.NewGuid().ToString();
 
         await _repository.Add(entity);
 
