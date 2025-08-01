@@ -14,3 +14,14 @@ C:\Workspace\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtili
 C:\Workspace\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\refint\CommonTestUtilities.dll
 C:\Workspace\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.pdb
 C:\Workspace\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\ref\CommonTestUtilities.dll
+C:\Workspace\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\UseCases\Expenses\Reports\Pdf\Img\profileimg.png
+C:\Workspace\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Application.dll
+C:\Workspace\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Domain.dll
+C:\Workspace\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Exception.dll
+C:\Workspace\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Application.pdb
+C:\Workspace\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Domain.pdb
+C:\Workspace\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Exception.pdb
+C:\Workspace\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\de-DE\CashFlow.Domain.resources.dll
+C:\Workspace\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\pt-BR\CashFlow.Domain.resources.dll
+C:\Workspace\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\de-DE\CashFlow.Exception.resources.dll
+C:\Workspace\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll

@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Workspace\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A05FAC1-B42F-43DA-9546-C7893A4D0229}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\workspace\\cashflow\\tests\\validators.tests\\users\\register\\registeruservalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A05FAC1-B42F-43DA-9546-C7893A4D0229}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\users\\register\\registeruservalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C4F10EF-C6DF-4719-8095-0A683CD5EE50}|tests\\UseCases.Tests\\UseCases.Tests.csproj|c:\\workspace\\cashflow\\tests\\usecases.tests\\users\\register\\registeruserusecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4F10EF-C6DF-4719-8095-0A683CD5EE50}|tests\\UseCases.Tests\\UseCases.Tests.csproj|solutionrelative:tests\\usecases.tests\\users\\register\\registeruserusecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB05B-D791-497F-8584-49543EF332F2}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|c:\\workspace\\cashflow\\tests\\commontestutilities\\repositories\\userreadonlyrepositorybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB05B-D791-497F-8584-49543EF332F2}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|solutionrelative:tests\\commontestutilities\\repositories\\userreadonlyrepositorybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB05B-D791-497F-8584-49543EF332F2}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|c:\\workspace\\cashflow\\tests\\commontestutilities\\cryptography\\passwordencripterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB05B-D791-497F-8584-49543EF332F2}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|solutionrelative:tests\\commontestutilities\\cryptography\\passwordencripterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01731598-BD83-4B3D-93AE-75C5F7E3FFF0}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\workspace\\cashflow\\src\\cashflow.application\\usecases\\user\\register\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01731598-BD83-4B3D-93AE-75C5F7E3FFF0}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\user\\register\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB05B-D791-497F-8584-49543EF332F2}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|c:\\workspace\\cashflow\\tests\\commontestutilities\\repositories\\userwriteonlyrepositorybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB05B-D791-497F-8584-49543EF332F2}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|solutionrelative:tests\\commontestutilities\\repositories\\userwriteonlyrepositorybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB05B-D791-497F-8584-49543EF332F2}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|c:\\workspace\\cashflow\\tests\\commontestutilities\\repositories\\unitofworkbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB05B-D791-497F-8584-49543EF332F2}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|solutionrelative:tests\\commontestutilities\\repositories\\unitofworkbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB05B-D791-497F-8584-49543EF332F2}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|c:\\workspace\\cashflow\\tests\\commontestutilities\\mapper\\mapperbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB05B-D791-497F-8584-49543EF332F2}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|solutionrelative:tests\\commontestutilities\\mapper\\mapperbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A05FAC1-B42F-43DA-9546-C7893A4D0229}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\workspace\\cashflow\\tests\\validators.tests\\users\\register\\registeruservalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A05FAC1-B42F-43DA-9546-C7893A4D0229}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\users\\register\\registeruservalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A05FAC1-B42F-43DA-9546-C7893A4D0229}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\workspace\\cashflow\\tests\\validators.tests\\users\\passwordvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,20 +50,98 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserReadOnlyRepositoryBuilder.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities\\Repositories\\UserReadOnlyRepositoryBuilder.cs",
+              "RelativeDocumentMoniker": "tests\\CommonTestUtilities\\Repositories\\UserReadOnlyRepositoryBuilder.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities\\Repositories\\UserReadOnlyRepositoryBuilder.cs",
+              "RelativeToolTip": "tests\\CommonTestUtilities\\Repositories\\UserReadOnlyRepositoryBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:22:04.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PasswordEncripterBuilder.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities\\Cryptography\\PasswordEncripterBuilder.cs",
+              "RelativeDocumentMoniker": "tests\\CommonTestUtilities\\Cryptography\\PasswordEncripterBuilder.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities\\Cryptography\\PasswordEncripterBuilder.cs",
+              "RelativeToolTip": "tests\\CommonTestUtilities\\Cryptography\\PasswordEncripterBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:06:54.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterUserUseCaseTest.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\UseCases.Tests\\Users\\Register\\RegisterUserUseCaseTest.cs",
+              "RelativeDocumentMoniker": "tests\\UseCases.Tests\\Users\\Register\\RegisterUserUseCaseTest.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\UseCases.Tests\\Users\\Register\\RegisterUserUseCaseTest.cs",
+              "RelativeToolTip": "tests\\UseCases.Tests\\Users\\Register\\RegisterUserUseCaseTest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T12:26:24.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserWriteOnlyRepositoryBuilder.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities\\Repositories\\UserWriteOnlyRepositoryBuilder.cs",
+              "RelativeDocumentMoniker": "tests\\CommonTestUtilities\\Repositories\\UserWriteOnlyRepositoryBuilder.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities\\Repositories\\UserWriteOnlyRepositoryBuilder.cs",
+              "RelativeToolTip": "tests\\CommonTestUtilities\\Repositories\\UserWriteOnlyRepositoryBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T14:28:47.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWorkBuilder.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities\\Repositories\\UnitOfWorkBuilder.cs",
+              "RelativeDocumentMoniker": "tests\\CommonTestUtilities\\Repositories\\UnitOfWorkBuilder.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities\\Repositories\\UnitOfWorkBuilder.cs",
+              "RelativeToolTip": "tests\\CommonTestUtilities\\Repositories\\UnitOfWorkBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T14:25:32.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MapperBuilder.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities\\Mapper\\MapperBuilder.cs",
+              "RelativeDocumentMoniker": "tests\\CommonTestUtilities\\Mapper\\MapperBuilder.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities\\Mapper\\MapperBuilder.cs",
+              "RelativeToolTip": "tests\\CommonTestUtilities\\Mapper\\MapperBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T14:19:14.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PasswordValidatorTests.cs",
               "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\Validators.Tests\\Users\\PasswordValidatorTests.cs",
               "RelativeDocumentMoniker": "tests\\Validators.Tests\\Users\\PasswordValidatorTests.cs",
               "ToolTip": "C:\\Workspace\\CashFlow\\tests\\Validators.Tests\\Users\\PasswordValidatorTests.cs",
               "RelativeToolTip": "tests\\Validators.Tests\\Users\\PasswordValidatorTests.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwCMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T11:59:14.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RegisterUserValidator.cs",
               "DocumentMoniker": "C:\\Workspace\\CashFlow\\src\\CashFlow.Application\\UseCases\\User\\Register\\RegisterUserValidator.cs",
               "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\User\\Register\\RegisterUserValidator.cs",
@@ -52,13 +154,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "RegisterUserValidatorTest.cs",
               "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\Validators.Tests\\Users\\Register\\RegisterUserValidatorTest.cs",
               "RelativeDocumentMoniker": "tests\\Validators.Tests\\Users\\Register\\RegisterUserValidatorTest.cs",
               "ToolTip": "C:\\Workspace\\CashFlow\\tests\\Validators.Tests\\Users\\Register\\RegisterUserValidatorTest.cs",
               "RelativeToolTip": "tests\\Validators.Tests\\Users\\Register\\RegisterUserValidatorTest.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAowFUAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA5wFUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-01T11:29:33.929Z",
               "EditorCaption": ""
