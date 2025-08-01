@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Workspace\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1DC4435-C716-45CD-BF10-9D10C5BCD5BB}|src\\CashFlow.API\\CashFlow.API.csproj|c:\\workspace\\cashflow\\src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1DC4435-C716-45CD-BF10-9D10C5BCD5BB}|src\\CashFlow.API\\CashFlow.API.csproj|solutionrelative:src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A05FAC1-B42F-43DA-9546-C7893A4D0229}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\workspace\\cashflow\\tests\\validators.tests\\users\\passwordvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A05FAC1-B42F-43DA-9546-C7893A4D0229}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\users\\passwordvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1DC4435-C716-45CD-BF10-9D10C5BCD5BB}|src\\CashFlow.API\\CashFlow.API.csproj|c:\\workspace\\cashflow\\src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1DC4435-C716-45CD-BF10-9D10C5BCD5BB}|src\\CashFlow.API\\CashFlow.API.csproj|solutionrelative:src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A05FAC1-B42F-43DA-9546-C7893A4D0229}|tests\\Validators.Tests\\Validators.Tests.csproj|c:\\workspace\\cashflow\\tests\\validators.tests\\users\\register\\registeruservalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A05FAC1-B42F-43DA-9546-C7893A4D0229}|tests\\Validators.Tests\\Validators.Tests.csproj|solutionrelative:tests\\validators.tests\\users\\register\\registeruservalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01731598-BD83-4B3D-93AE-75C5F7E3FFF0}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\workspace\\cashflow\\src\\cashflow.application\\usecases\\login\\dologin\\dologinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01731598-BD83-4B3D-93AE-75C5F7E3FFF0}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\login\\dologin\\dologinusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01731598-BD83-4B3D-93AE-75C5F7E3FFF0}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\workspace\\cashflow\\src\\cashflow.application\\usecases\\user\\register\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01731598-BD83-4B3D-93AE-75C5F7E3FFF0}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\user\\register\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExpensesController.cs",
-              "DocumentMoniker": "C:\\Workspace\\CashFlow\\src\\CashFlow.API\\Controllers\\ExpensesController.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.API\\Controllers\\ExpensesController.cs",
-              "ToolTip": "C:\\Workspace\\CashFlow\\src\\CashFlow.API\\Controllers\\ExpensesController.cs",
-              "RelativeToolTip": "src\\CashFlow.API\\Controllers\\ExpensesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T19:00:50.628Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Workspace\\CashFlow\\src\\CashFlow.API\\Program.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.API\\Program.cs",
-              "ToolTip": "C:\\Workspace\\CashFlow\\src\\CashFlow.API\\Program.cs",
-              "RelativeToolTip": "src\\CashFlow.API\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAIwCAAAAAfAAAAAAAAAA==",
+              "Title": "PasswordValidatorTests.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\Validators.Tests\\Users\\PasswordValidatorTests.cs",
+              "RelativeDocumentMoniker": "tests\\Validators.Tests\\Users\\PasswordValidatorTests.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\Validators.Tests\\Users\\PasswordValidatorTests.cs",
+              "RelativeToolTip": "tests\\Validators.Tests\\Users\\PasswordValidatorTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T17:17:04.864Z",
+              "WhenOpened": "2025-08-01T11:59:14.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DoLoginUseCase.cs",
-              "DocumentMoniker": "C:\\Workspace\\CashFlow\\src\\CashFlow.Application\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
-              "ToolTip": "C:\\Workspace\\CashFlow\\src\\CashFlow.Application\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
-              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Login\\DoLogin\\DoLoginUseCase.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAAbAAAAAAAAAA==",
+              "Title": "RegisterUserValidator.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\src\\CashFlow.Application\\UseCases\\User\\Register\\RegisterUserValidator.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\User\\Register\\RegisterUserValidator.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\src\\CashFlow.Application\\UseCases\\User\\Register\\RegisterUserValidator.cs",
+              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\User\\Register\\RegisterUserValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T12:35:09.238Z"
+              "WhenOpened": "2025-08-01T11:49:57.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterUserValidatorTest.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\Validators.Tests\\Users\\Register\\RegisterUserValidatorTest.cs",
+              "RelativeDocumentMoniker": "tests\\Validators.Tests\\Users\\Register\\RegisterUserValidatorTest.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\Validators.Tests\\Users\\Register\\RegisterUserValidatorTest.cs",
+              "RelativeToolTip": "tests\\Validators.Tests\\Users\\Register\\RegisterUserValidatorTest.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T11:29:33.929Z",
+              "EditorCaption": ""
             }
           ]
         }
