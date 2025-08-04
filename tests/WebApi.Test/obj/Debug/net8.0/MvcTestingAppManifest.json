@@ -1,0 +1,9 @@
+{
+  "CashFlow.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Workspace\\CashFlow\\src\\CashFlow.API",
+  "CashFlow.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Workspace\\CashFlow\\src\\CashFlow.Application",
+  "CashFlow.Communication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Workspace\\CashFlow\\src\\CashFlow.Communication",
+  "CashFlow.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Workspace\\CashFlow\\src\\CashFlow.Domain",
+  "CashFlow.Exception, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Workspace\\CashFlow\\src\\CashFlow.Exception",
+  "CashFlow.Infraestructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Workspace\\CashFlow\\src\\CashFlow.Infraestructure",
+  "CommonTestUtilities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities"
+}
