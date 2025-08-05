@@ -8,6 +8,7 @@ using System.Net;
 using System.Net.Http.Headers;
 using System.Net.Http.Json;
 using System.Text.Json;
+using WebApi.Test.InlineData;
 
 namespace WebApi.Test.Users.Register;
 
@@ -39,9 +40,7 @@ public class RegisterUserTest : IClassFixture<CustomWebApplicationFactory>
     }
 
     [Theory]
-    [InlineData("pt-BR")]
-    [InlineData("en")]
-    [InlineData("de-DE")]
+    [ClassData(typeof(CultureInlineDataTest))]
     public async Task Error_Empty_Name(string cultureInfo)
     {
         var request = RequestRegisterUserJsonBuilder.Build();

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Workspace\\CashFlow\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6CC980B-9FE2-4D0B-A144-F3294515EFC6}|tests\\WebApi.Test\\WebApi.Test.csproj|c:\\workspace\\cashflow\\tests\\webapi.test\\login\\dologin\\dologintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CC980B-9FE2-4D0B-A144-F3294515EFC6}|tests\\WebApi.Test\\WebApi.Test.csproj|solutionrelative:tests\\webapi.test\\login\\dologin\\dologintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC980B-9FE2-4D0B-A144-F3294515EFC6}|tests\\WebApi.Test\\WebApi.Test.csproj|c:\\workspace\\cashflow\\tests\\webapi.test\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CC980B-9FE2-4D0B-A144-F3294515EFC6}|tests\\WebApi.Test\\WebApi.Test.csproj|solutionrelative:tests\\webapi.test\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6CC980B-9FE2-4D0B-A144-F3294515EFC6}|tests\\WebApi.Test\\WebApi.Test.csproj|c:\\workspace\\cashflow\\tests\\webapi.test\\users\\register\\registerusertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6CC980B-9FE2-4D0B-A144-F3294515EFC6}|tests\\WebApi.Test\\WebApi.Test.csproj|solutionrelative:tests\\webapi.test\\users\\register\\registerusertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DoLoginTest.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\WebApi.Test\\Login\\DoLogin\\DoLoginTest.cs",
+              "RelativeDocumentMoniker": "tests\\WebApi.Test\\Login\\DoLogin\\DoLoginTest.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\WebApi.Test\\Login\\DoLogin\\DoLoginTest.cs",
+              "RelativeToolTip": "tests\\WebApi.Test\\Login\\DoLogin\\DoLoginTest.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T12:47:57.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\WebApi.Test\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "tests\\WebApi.Test\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\WebApi.Test\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "tests\\WebApi.Test\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:18:45.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RegisterUserTest.cs",
               "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\WebApi.Test\\Users\\Register\\RegisterUserTest.cs",
               "RelativeDocumentMoniker": "tests\\WebApi.Test\\Users\\Register\\RegisterUserTest.cs",
               "ToolTip": "C:\\Workspace\\CashFlow\\tests\\WebApi.Test\\Users\\Register\\RegisterUserTest.cs",
               "RelativeToolTip": "tests\\WebApi.Test\\Users\\Register\\RegisterUserTest.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-04T17:53:04.718Z",
               "EditorCaption": ""
