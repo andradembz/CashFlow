@@ -24,12 +24,12 @@ internal class ExpensesRepository : IExpensesReadOnlyRepository, IExpenseWriteOn
         _dbContext.Expenses.Remove(result!);
     }
 
-    public async Task<List<Expense>> GetAll(Domain.Entities.User user)
+    public async Task<List<Expense>> GetAll(User user)
     {
         return await _dbContext.Expenses.AsNoTracking().Where(expense => expense.UserID == user.Id).ToListAsync();
     }
 
-    async Task<Expense?> IExpensesReadOnlyRepository.GetById(Domain.Entities.User user, long id)
+    async Task<Expense?> IExpensesReadOnlyRepository.GetById(User user, long id)
     {
         return await _dbContext.Expenses.AsNoTracking().FirstOrDefaultAsync(expense => expense.Id == id && expense.UserID == user.Id);
     }
@@ -43,7 +43,7 @@ internal class ExpensesRepository : IExpensesReadOnlyRepository, IExpenseWriteOn
         _dbContext.Expenses.Update(expense);
     }
 
-    public async Task<List<Expense>> FilterByMonth(DateOnly date)
+    public async Task<List<Expense>> FilterByMonth(User user, DateOnly date)
     {
         var startDate = new DateTime(year: date.Year, month: date.Month, day: 1).Date;
         var daysInMonth = DateTime.DaysInMonth(year: date.Year, month: date.Month);
@@ -53,7 +53,7 @@ internal class ExpensesRepository : IExpensesReadOnlyRepository, IExpenseWriteOn
         return await _dbContext
             .Expenses
             .AsNoTracking()
-            .Where(expense => expense.Date >= startDate && expense.Date <= endDate)
+            .Where(expense => expense.Date >= startDate && expense.Date <= endDate && expense.UserID == user.Id)
             .OrderBy(expense => expense.Date)
             .ThenBy(expense => expense.Title)
             .ToListAsync();

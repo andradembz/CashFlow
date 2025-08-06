@@ -48,7 +48,7 @@ namespace CashFlow.Infraestructure.Migrations
                     description = table.Column<string>(type: "longtext", nullable: true)
                         .Annotation("MySql:CharSet", "utf8mb4"),
                     date = table.Column<DateTime>(type: "datetime(6)", nullable: false),
-                    amount = table.Column<decimal>(type: "decimal(65,30)", nullable: false),
+                    amount = table.Column<decimal>(type: "decimal(10,2)", nullable: false),
                     paymentType = table.Column<int>(type: "int", nullable: false),
                     userid = table.Column<long>(type: "bigint", nullable: false)
                 },
