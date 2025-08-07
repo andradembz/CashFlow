@@ -1,12 +1,190 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Workspace\\CashFlow\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC980B-9FE2-4D0B-A144-F3294515EFC6}|tests\\WebApi.Test\\WebApi.Test.csproj|c:\\workspace\\cashflow\\tests\\webapi.test\\expenses\\update\\updateexpensetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CC980B-9FE2-4D0B-A144-F3294515EFC6}|tests\\WebApi.Test\\WebApi.Test.csproj|solutionrelative:tests\\webapi.test\\expenses\\update\\updateexpensetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC980B-9FE2-4D0B-A144-F3294515EFC6}|tests\\WebApi.Test\\WebApi.Test.csproj|c:\\workspace\\cashflow\\tests\\webapi.test\\expenses\\getbyid\\getexpensebyidtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CC980B-9FE2-4D0B-A144-F3294515EFC6}|tests\\WebApi.Test\\WebApi.Test.csproj|solutionrelative:tests\\webapi.test\\expenses\\getbyid\\getexpensebyidtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC980B-9FE2-4D0B-A144-F3294515EFC6}|tests\\WebApi.Test\\WebApi.Test.csproj|c:\\workspace\\cashflow\\tests\\webapi.test\\expenses\\register\\registerexpensetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CC980B-9FE2-4D0B-A144-F3294515EFC6}|tests\\WebApi.Test\\WebApi.Test.csproj|solutionrelative:tests\\webapi.test\\expenses\\register\\registerexpensetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC980B-9FE2-4D0B-A144-F3294515EFC6}|tests\\WebApi.Test\\WebApi.Test.csproj|c:\\workspace\\cashflow\\tests\\webapi.test\\cashflowclassfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CC980B-9FE2-4D0B-A144-F3294515EFC6}|tests\\WebApi.Test\\WebApi.Test.csproj|solutionrelative:tests\\webapi.test\\cashflowclassfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4F10EF-C6DF-4719-8095-0A683CD5EE50}|tests\\UseCases.Tests\\UseCases.Tests.csproj|c:\\workspace\\cashflow\\tests\\usecases.tests\\expenses\\update\\updateexpenseusecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4F10EF-C6DF-4719-8095-0A683CD5EE50}|tests\\UseCases.Tests\\UseCases.Tests.csproj|solutionrelative:tests\\usecases.tests\\expenses\\update\\updateexpenseusecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4F10EF-C6DF-4719-8095-0A683CD5EE50}|tests\\UseCases.Tests\\UseCases.Tests.csproj|c:\\workspace\\cashflow\\tests\\usecases.tests\\expenses\\getbyid\\getexpensebyidusecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4F10EF-C6DF-4719-8095-0A683CD5EE50}|tests\\UseCases.Tests\\UseCases.Tests.csproj|solutionrelative:tests\\usecases.tests\\expenses\\getbyid\\getexpensebyidusecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB05B-D791-497F-8584-49543EF332F2}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|c:\\workspace\\cashflow\\tests\\commontestutilities\\requests\\requestregisteruserjsonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB05B-D791-497F-8584-49543EF332F2}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|solutionrelative:tests\\commontestutilities\\requests\\requestregisteruserjsonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB05B-D791-497F-8584-49543EF332F2}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|c:\\workspace\\cashflow\\tests\\commontestutilities\\requests\\requestloginjsonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB05B-D791-497F-8584-49543EF332F2}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|solutionrelative:tests\\commontestutilities\\requests\\requestloginjsonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DCBB05B-D791-497F-8584-49543EF332F2}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|c:\\workspace\\cashflow\\tests\\commontestutilities\\requests\\requestexpensejsonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DCBB05B-D791-497F-8584-49543EF332F2}|tests\\CommonTestUtilities\\CommonTestUtilities.csproj|solutionrelative:tests\\commontestutilities\\requests\\requestexpensejsonbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4F10EF-C6DF-4719-8095-0A683CD5EE50}|tests\\UseCases.Tests\\UseCases.Tests.csproj|c:\\workspace\\cashflow\\tests\\usecases.tests\\expenses\\delete\\deleteexpenseusecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4F10EF-C6DF-4719-8095-0A683CD5EE50}|tests\\UseCases.Tests\\UseCases.Tests.csproj|solutionrelative:tests\\usecases.tests\\expenses\\delete\\deleteexpenseusecasetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterExpenseTest.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\WebApi.Test\\Expenses\\Register\\RegisterExpenseTest.cs",
+              "RelativeDocumentMoniker": "tests\\WebApi.Test\\Expenses\\Register\\RegisterExpenseTest.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\WebApi.Test\\Expenses\\Register\\RegisterExpenseTest.cs",
+              "RelativeToolTip": "tests\\WebApi.Test\\Expenses\\Register\\RegisterExpenseTest.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:43:49.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetExpenseByIdTest.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\WebApi.Test\\Expenses\\GetById\\GetExpenseByIdTest.cs",
+              "RelativeDocumentMoniker": "tests\\WebApi.Test\\Expenses\\GetById\\GetExpenseByIdTest.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\WebApi.Test\\Expenses\\GetById\\GetExpenseByIdTest.cs",
+              "RelativeToolTip": "tests\\WebApi.Test\\Expenses\\GetById\\GetExpenseByIdTest.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:43:44.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CashFlowClassFixture.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\WebApi.Test\\CashFlowClassFixture.cs",
+              "RelativeDocumentMoniker": "tests\\WebApi.Test\\CashFlowClassFixture.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\WebApi.Test\\CashFlowClassFixture.cs",
+              "RelativeToolTip": "tests\\WebApi.Test\\CashFlowClassFixture.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:40:50.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateExpenseTest.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\WebApi.Test\\Expenses\\Update\\UpdateExpenseTest.cs",
+              "RelativeDocumentMoniker": "tests\\WebApi.Test\\Expenses\\Update\\UpdateExpenseTest.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\WebApi.Test\\Expenses\\Update\\UpdateExpenseTest.cs",
+              "RelativeToolTip": "tests\\WebApi.Test\\Expenses\\Update\\UpdateExpenseTest.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:36:54.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestRegisterUserJsonBuilder.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities\\Requests\\RequestRegisterUserJsonBuilder.cs",
+              "RelativeDocumentMoniker": "tests\\CommonTestUtilities\\Requests\\RequestRegisterUserJsonBuilder.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities\\Requests\\RequestRegisterUserJsonBuilder.cs",
+              "RelativeToolTip": "tests\\CommonTestUtilities\\Requests\\RequestRegisterUserJsonBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:51:27.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequestLoginJsonBuilder.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities\\Requests\\RequestLoginJsonBuilder.cs",
+              "RelativeDocumentMoniker": "tests\\CommonTestUtilities\\Requests\\RequestLoginJsonBuilder.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities\\Requests\\RequestLoginJsonBuilder.cs",
+              "RelativeToolTip": "tests\\CommonTestUtilities\\Requests\\RequestLoginJsonBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:51:24.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestExpenseJsonBuilder.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities\\Requests\\RequestExpenseJsonBuilder.cs",
+              "RelativeDocumentMoniker": "tests\\CommonTestUtilities\\Requests\\RequestExpenseJsonBuilder.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\CommonTestUtilities\\Requests\\RequestExpenseJsonBuilder.cs",
+              "RelativeToolTip": "tests\\CommonTestUtilities\\Requests\\RequestExpenseJsonBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:50:36.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteExpenseUseCaseTest.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\UseCases.Tests\\Expenses\\Delete\\DeleteExpenseUseCaseTest.cs",
+              "RelativeDocumentMoniker": "tests\\UseCases.Tests\\Expenses\\Delete\\DeleteExpenseUseCaseTest.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\UseCases.Tests\\Expenses\\Delete\\DeleteExpenseUseCaseTest.cs",
+              "RelativeToolTip": "tests\\UseCases.Tests\\Expenses\\Delete\\DeleteExpenseUseCaseTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:46:02.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateExpenseUseCaseTest.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\UseCases.Tests\\Expenses\\Update\\UpdateExpenseUseCaseTest.cs",
+              "RelativeDocumentMoniker": "tests\\UseCases.Tests\\Expenses\\Update\\UpdateExpenseUseCaseTest.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\UseCases.Tests\\Expenses\\Update\\UpdateExpenseUseCaseTest.cs",
+              "RelativeToolTip": "tests\\UseCases.Tests\\Expenses\\Update\\UpdateExpenseUseCaseTest.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:26:06.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetExpenseByIdUseCaseTest.cs",
+              "DocumentMoniker": "C:\\Workspace\\CashFlow\\tests\\UseCases.Tests\\Expenses\\GetById\\GetExpenseByIdUseCaseTest.cs",
+              "RelativeDocumentMoniker": "tests\\UseCases.Tests\\Expenses\\GetById\\GetExpenseByIdUseCaseTest.cs",
+              "ToolTip": "C:\\Workspace\\CashFlow\\tests\\UseCases.Tests\\Expenses\\GetById\\GetExpenseByIdUseCaseTest.cs",
+              "RelativeToolTip": "tests\\UseCases.Tests\\Expenses\\GetById\\GetExpenseByIdUseCaseTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:27:48.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
