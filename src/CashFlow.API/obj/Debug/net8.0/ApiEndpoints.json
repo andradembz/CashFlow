@@ -347,6 +347,22 @@
   },
   {
     "ContainingType": "CashFlow.API.Controllers.UserController",
+    "Method": "DeleteProfile",
+    "RelativePath": "api/User",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 204
+      }
+    ]
+  },
+  {
+    "ContainingType": "CashFlow.API.Controllers.UserController",
     "Method": "ChangePassword",
     "RelativePath": "api/User/change-password",
     "HttpMethod": "PUT",
