@@ -144,6 +144,9 @@
   <data name="NAME_EMPTY" xml:space="preserve">
     <value>Der Name darf nicht leer sein.</value>
   </data>
+  <data name="PASSWORD_DIFFERENT_CURRENT_PASSWORD" xml:space="preserve">
+    <value>Dieses Passwort stimmt nicht mit dem aktuellen Benutzerpasswort überein.</value>
+  </data>
   <data name="PAYMENT_TYPE_ERROR" xml:space="preserve">
     <value>Zahlungsart ist ungültig.</value>
   </data>
