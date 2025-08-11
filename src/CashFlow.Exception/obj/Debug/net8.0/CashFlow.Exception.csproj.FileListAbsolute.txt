@@ -19,5 +19,3 @@ C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception
 C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.GenerateResource.cache
 C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\de-DE\CashFlow.Exception.resources.dll
 C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
-C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\de-DE\CashFlow.Exception.resources.cs
-C:\Workspace\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\pt-BR\CashFlow.Exception.resources.cs

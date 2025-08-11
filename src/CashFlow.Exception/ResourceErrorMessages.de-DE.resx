@@ -150,6 +150,9 @@
   <data name="PAYMENT_TYPE_ERROR" xml:space="preserve">
     <value>Zahlungsart ist ungültig.</value>
   </data>
+  <data name="TAG_TYPE_NOT_SUPPORTED" xml:space="preserve">
+    <value>Dieser Tag-Typ wird nicht unterstützt.</value>
+  </data>
   <data name="TITLE_REQUIRED" xml:space="preserve">
     <value>Der Titel ist erforderlich.</value>
   </data>
