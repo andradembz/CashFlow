@@ -150,7 +150,6 @@ C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysi
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
-C:\Workspace\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
@@ -162,3 +161,4 @@ C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.AspNetCore.Aut
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\appsettings.TestEnvironment.json
+C:\Workspace\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
