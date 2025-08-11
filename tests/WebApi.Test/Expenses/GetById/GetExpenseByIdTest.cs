@@ -35,6 +35,7 @@ public class GetExpenseByIdTest : CashFlowClassFixture
         response.RootElement.GetProperty("title").GetString().Should().NotBeNullOrEmpty();
         response.RootElement.GetProperty("date").GetDateTime().Should().NotBeAfter(DateTime.Today);
         response.RootElement.GetProperty("amount").GetDecimal().Should().BeGreaterThan(0);
+        response.RootElement.GetProperty("tags").EnumerateArray().Should().NotBeNullOrEmpty();
 
         var paymentType = response.RootElement.GetProperty("paymentType").GetInt32();
         Enum.IsDefined(typeof(PaymentType), paymentType).Should().BeTrue();
