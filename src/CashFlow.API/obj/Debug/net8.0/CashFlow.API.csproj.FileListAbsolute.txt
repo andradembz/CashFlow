@@ -162,3 +162,8 @@ C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.IdentityModel.
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\appsettings.TestEnvironment.json
 C:\Workspace\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:\Workspace\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
