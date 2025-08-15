@@ -23,7 +23,7 @@ Among the NuGet packages used, **AutoMapper** is responsible for mapping between
 
 ## Getting Started
 
-To get a local copy working, follow these steps.
+To get a working local copy, follow these steps.
 
 ### Requirements
 
@@ -35,7 +35,7 @@ To get a local copy working, follow these steps.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/andradembz/CashFlow.git
+    git clone https://github.com/miguelbandrade/CashFlow.git
     ```
 
 2. Fill the file information `appsettings.Development.json`.
@@ -54,4 +54,4 @@ To get a local copy working, follow these steps.
 [badge-swagger]: https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=for-the-badge
 
 ### Extra
-This project was developed through RocketSeat Course "C#"
+This project was developed through C# RocketSeat Course.
